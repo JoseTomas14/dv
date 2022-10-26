@@ -1,4 +1,4 @@
-Costo,Seguridad,Trasnporte,Ruido,Climatización,Estado de la construcción,
+Costo,Seguridad,Trasnporte,Ruido,Climatización,Estado de la construcción
 129406775,1,2,2,1,1
 131841198,2,1,1,2,2
 78233781,1,3,3,3,2
